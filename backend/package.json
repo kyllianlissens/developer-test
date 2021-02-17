@@ -1,0 +1,14 @@
+{
+  "name": "gie",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "~4.16.1",
+    "nodemon": "^2.0.7"
+  }
+}
